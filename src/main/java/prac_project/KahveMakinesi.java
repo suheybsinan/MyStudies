@@ -1,4 +1,4 @@
-package project01;
+package prac_project;
 
 public class KahveMakinesi {
 

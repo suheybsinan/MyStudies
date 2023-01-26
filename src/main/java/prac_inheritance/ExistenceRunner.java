@@ -1,8 +1,6 @@
-package Prac_inheritance;
+package prac_inheritance;
 
 import Prac_.Wolf;
-
-import java.security.cert.Extension;
 
 public class ExistenceRunner {
 

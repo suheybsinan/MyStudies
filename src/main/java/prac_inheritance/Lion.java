@@ -1,6 +1,4 @@
-package Prac_inheritance;
-
-import Prac_inheritance.Animal;
+package prac_inheritance;
 
 public class Lion extends Animal {
 

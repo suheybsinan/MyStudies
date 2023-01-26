@@ -1,4 +1,4 @@
-package study.task03;
+package prac_project;
 
 public class BakkalKazanci {
 

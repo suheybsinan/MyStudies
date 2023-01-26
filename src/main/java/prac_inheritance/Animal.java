@@ -1,6 +1,4 @@
-package Prac_inheritance;
-
-import Prac_inheritance.Bios;
+package prac_inheritance;
 
 public class Animal extends Bios {
 

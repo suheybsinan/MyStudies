@@ -1,4 +1,4 @@
-package Prac_inheritance;
+package prac_inheritance;
 
 public class Existence {
 
