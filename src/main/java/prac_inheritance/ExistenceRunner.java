@@ -1,6 +1,5 @@
 package prac_inheritance;
 
-import Prac_.Wolf;
 
 public class ExistenceRunner {
 
